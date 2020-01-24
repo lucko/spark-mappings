@@ -1,37 +1,80 @@
 {
-  "bukkit": {
-    "display": "Bukkit",
-    "format": "Bukkit -> MCP (%s)",
-    "versions": {
-      "1_15_2": {"nmsVersion": "v1_15_R1"},
-      "1_14_4": {"nmsVersion": "v1_14_R1"},
-      "1_13_2": {"nmsVersion": "v1_13_R2"},
-      "1_12_2": {"nmsVersion": "v1_12_R1"},
-      "1_11_2": {"nmsVersion": "v1_11_R1"},
-      "1_10_2": {"nmsVersion": "v1_10_R1"},
-      "1_8_8": {"nmsVersion": "v1_8_R3"}
-    }
-  },
-  "mcp": {
-    "display": "MCP (Forge)",
-    "format": "MCP (%s)",
-    "versions": {
-      "1_15_2": {},
-      "1_14_4": {},
-      "1_13_2": {},
-      "1_12_2": {},
-      "1_11_2": {},
-      "1_10_2": {},
-      "1_8_8": {},
-      "1_7_10": {}
-    }
-  },
-  "yarn": {
-    "display": "Yarn (Fabric)",
-    "format": "Yarn (%s)",
-    "versions": {
-      "1_15_2": {},
-      "1_14_4": {}
+  "types": {
+    "bukkit": {
+      "name": "Bukkit",
+      "format": "Bukkit -> MCP (%s)",
+      "versions": {
+        "1_15_2": {
+          "name": "1.15.2",
+          "nmsVersion": "v1_15_R1"
+        },
+        "1_14_4": {
+          "name": "1.14.4",
+          "nmsVersion": "v1_14_R1"
+        },
+        "1_13_2": {
+          "name": "1.13.2",
+          "nmsVersion": "v1_13_R2"
+        },
+        "1_12_2": {
+          "name": "1.12.2",
+          "nmsVersion": "v1_12_R1"
+        },
+        "1_11_2": {
+          "name": "1.11.2",
+          "nmsVersion": "v1_11_R1"
+        },
+        "1_10_2": {
+          "name": "1.10.2",
+          "nmsVersion": "v1_10_R1"
+        },
+        "1_8_8": {
+          "name": "1.8.8",
+          "nmsVersion": "v1_8_R3"
+        }
+      }
+    },
+    "mcp": {
+      "name": "MCP (Forge)",
+      "format": "MCP (%s)",
+      "versions": {
+        "1_15_2": {
+          "name": "1.15.2"
+        },
+        "1_14_4": {
+          "name": "1.14.4"
+        },
+        "1_13_2": {
+          "name": "1.13.2"
+        },
+        "1_12_2": {
+          "name": "1.12.2"
+        },
+        "1_11_2": {
+          "name": "1.11.2"
+        },
+        "1_10_2": {
+          "name": "1.10.2"
+        },
+        "1_8_8": {
+          "name": "1.8.8"
+        },
+        "1_7_10": {
+          "name": "1.7.10"
+        }
+      }
+    },
+    "yarn": {
+      "name": "Yarn (Fabric)",
+      "format": "Yarn (%s)",
+      "versions": {
+        "1_15_2": {
+          "name": "1.15.2"
+        },
+        "1_14_4": {
+          "name": "1.14.4"
+        }
+      }
     }
   }
 }
