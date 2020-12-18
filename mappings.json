@@ -1,7 +1,17 @@
 {
   "types": {
+    "bukkit-mojang": {
+      "name": "Bukkit (Mojang)",
+      "format": "Bukkit -> Mojang (%s)",
+      "versions": {
+        "1_16_4": {
+          "name": "1.16.4",
+          "nmsVersion": "v1_16_R3"
+        }
+      }
+    },
     "bukkit": {
-      "name": "Bukkit",
+      "name": "Bukkit (MCP)",
       "format": "Bukkit -> MCP (%s)",
       "versions": {
         "1_16_4": {
