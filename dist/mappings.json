@@ -1,10 +1,15 @@
 {
   "auto": {
-    "bukkit/1.16.5": "bukkit-mojang-1_16_4",
-    "bukkit/1.16.4": "bukkit-mojang-1_16_4",
+    "bukkit/1.16.5": "bukkit-mojang-1_16_5",
+    "bukkit/1.16.4": "bukkit-mojang-1_16_5",
     "bukkit/1.15.2": "bukkit-1_15_2",
     "bukkit/1.14.4": "bukkit-1_14_4",
     "bukkit/1.13.2": "bukkit-1_13_2",
+    "bukkit/1.12.2": "bukkit-1_12_2",
+    "bukkit/v1_16_R3": "bukkit-mojang-1_16_5",
+    "bukkit/v1_15_R1": "bukkit-1_15_2",
+    "bukkit/v1_14_R1": "bukkit-1_14_4",
+    "bukkit/v1_13_R2": "bukkit-1_13_2",
     "bukkit/v1_12_R1": "bukkit-1_12_2",
     "bukkit/v1_11_R1": "bukkit-1_11_2",
     "bukkit/v1_10_R1": "bukkit-1_10_2",
@@ -41,8 +46,8 @@
       "name": "Bukkit (Mojang)",
       "format": "Bukkit -> Mojang (%s)",
       "versions": {
-        "1_16_4": {
-          "name": "1.16.4",
+        "1_16_5": {
+          "name": "1.16.5",
           "nmsVersion": "v1_16_R3"
         }
       }
@@ -51,17 +56,9 @@
       "name": "Bukkit (MCP)",
       "format": "Bukkit -> MCP (%s)",
       "versions": {
-        "1_16_4": {
-          "name": "1.16.4",
+        "1_16_5": {
+          "name": "1.16.5",
           "nmsVersion": "v1_16_R3"
-        },
-        "1_16_3": {
-          "name": "1.16.3",
-          "nmsVersion": "v1_16_R2"
-        },
-        "1_16_1": {
-          "name": "1.16.1",
-          "nmsVersion": "v1_16_R1"
         },
         "1_15_2": {
           "name": "1.15.2",
@@ -97,14 +94,8 @@
       "name": "MCP (Forge)",
       "format": "MCP (%s)",
       "versions": {
-        "1_16_4": {
-          "name": "1.16.4"
-        },
-        "1_16_3": {
-          "name": "1.16.3"
-        },
-        "1_16_1": {
-          "name": "1.16.1"
+        "1_16_5": {
+          "name": "1.16.5"
         },
         "1_15_2": {
           "name": "1.15.2"
@@ -136,14 +127,8 @@
       "name": "Yarn (Fabric)",
       "format": "Yarn (%s)",
       "versions": {
-        "1_16_4": {
-          "name": "1.16.4"
-        },
-        "1_16_3": {
-          "name": "1.16.3"
-        },
-        "1_16_1": {
-          "name": "1.16.1"
+        "1_16_5": {
+          "name": "1.16.5"
         },
         "1_15_2": {
           "name": "1.15.2"
