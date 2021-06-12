@@ -1,11 +1,13 @@
 {
   "auto": {
+    "bukkit/1.17": "bukkit-mojang-1_17",
     "bukkit/1.16.5": "bukkit-mojang-1_16_5",
     "bukkit/1.16.4": "bukkit-mojang-1_16_5",
     "bukkit/1.15.2": "bukkit-1_15_2",
     "bukkit/1.14.4": "bukkit-1_14_4",
     "bukkit/1.13.2": "bukkit-1_13_2",
     "bukkit/1.12.2": "bukkit-1_12_2",
+    "bukkit/v1_17_R1": "bukkit-mojang-1_17",
     "bukkit/v1_16_R3": "bukkit-mojang-1_16_5",
     "bukkit/v1_15_R1": "bukkit-1_15_2",
     "bukkit/v1_14_R1": "bukkit-1_14_4",
@@ -36,6 +38,7 @@
     "sponge/1.8.9": "mcp-1_8_8",
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
+    "fabric/1.17": "yarn-1_17",
     "fabric/1.16.5": "yarn-1_16_4",
     "fabric/1.16.4": "yarn-1_16_4",
     "fabric/1.15.2": "yarn-1_15_2",
@@ -46,6 +49,10 @@
       "name": "Bukkit (Mojang)",
       "format": "Bukkit -> Mojang (%s)",
       "versions": {
+        "1_17": {
+          "name": "1.17",
+          "mojangClassNamesAtRuntime": true
+        },
         "1_16_5": {
           "name": "1.16.5",
           "nmsVersion": "v1_16_R3"
@@ -127,6 +134,9 @@
       "name": "Yarn (Fabric)",
       "format": "Yarn (%s)",
       "versions": {
+        "1_17": {
+          "name": "1.17"
+        },
         "1_16_5": {
           "name": "1.16.5"
         },

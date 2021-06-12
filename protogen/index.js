@@ -7,7 +7,7 @@ const {
     MojangMappings
 } = require('./protos');
 
-const versions = fs.readdirSync('../dist/').filter(name => /^\d+_\d+_\d+$/.test(name));
+const versions = fs.readdirSync('../dist/').filter(name => /^\d+_\d+(_\d+)?$/.test(name));
 
 for (const version of versions) {
     const files = fs.readdirSync(`../dist/${version}/`).filter(name => name.endsWith('.json'));
