@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.17.1": "bukkit-mojang-1_17",
     "bukkit/1.17": "bukkit-mojang-1_17",
     "bukkit/1.16.5": "bukkit-mojang-1_16_5",
     "bukkit/1.16.4": "bukkit-mojang-1_16_5",
@@ -38,6 +39,7 @@
     "sponge/1.8.9": "mcp-1_8_8",
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
+    "fabric/1.17.1": "yarn-1_17",
     "fabric/1.17": "yarn-1_17",
     "fabric/1.16.5": "yarn-1_16_4",
     "fabric/1.16.4": "yarn-1_16_4",
