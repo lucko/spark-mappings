@@ -52,7 +52,7 @@ for (const version of versions) {
 
         const buffer = writer.finish();
 
-        const outputFile = `../dist/${version}/${file.slice(0, -5)}.pbmapping`;
+        const outputFile = `../dist/${version}/${file.slice(0, -5)}.wasm`;
         fs.writeFile(outputFile, buffer, 'utf8', () => {});
     }
 }
