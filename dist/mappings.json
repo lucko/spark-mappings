@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.18.1": "bukkit-mojang-1_18",
     "bukkit/1.18": "bukkit-mojang-1_18",
     "bukkit/1.17.1": "bukkit-mojang-1_17_1",
     "bukkit/1.16.5": "bukkit-mojang-1_16_5",
@@ -18,6 +19,7 @@
     "bukkit/v1_11_R1": "bukkit-1_11_2",
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
+    "forge/1.18.1": "mcp-1_18",
     "forge/1.18": "mcp-1_18",
     "forge/1.17.1": "mcp-1_17_1",
     "forge/1.16.5": "mcp-1_16_5",
@@ -42,6 +44,7 @@
     "sponge/1.8.9": "mcp-1_8_8",
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
+    "fabric/1.18.1": "yarn-1_18",
     "fabric/1.18": "yarn-1_18",
     "fabric/1.17.1": "yarn-1_17_1",
     "fabric/1.16.5": "yarn-1_16_5",
