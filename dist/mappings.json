@@ -25,6 +25,7 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.19": "mcp-1_19",
     "forge/1.18.2": "mcp-1_18_2",
     "forge/1.18.1": "mcp-1_18",
     "forge/1.18": "mcp-1_18",
@@ -41,6 +42,7 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "sponge/1.19": "mcp-1_19",
     "sponge/1.18.2": "mcp-1_18_2",
     "sponge/1.18.1": "mcp-1_18",
     "sponge/1.18": "mcp-1_18",
@@ -136,6 +138,9 @@
       "name": "MCP (Forge)",
       "format": "MCP (%s)",
       "versions": {
+        "1_19": {
+          "name": "1.19"
+        },
         "1_18_2": {
           "name": "1.18.2"
         },
