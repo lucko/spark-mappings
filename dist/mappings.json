@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.19.3": "bukkit-mojang-1_19_3",
     "bukkit/1.19.2": "bukkit-mojang-1_19_1",
     "bukkit/1.19.1": "bukkit-mojang-1_19_1",
     "bukkit/1.19": "bukkit-mojang-1_19",
@@ -14,6 +15,7 @@
     "bukkit/1.13.2": "bukkit-1_13_2",
     "bukkit/1.12.2": "bukkit-1_12_2",
 
+    "bukkit/v1_19_R2": "bukkit-mojang-1_19_3",
     "bukkit/v1_19_R1": "bukkit-mojang-1_19_1",
     "bukkit/v1_18_R2": "bukkit-mojang-1_18_2",
     "bukkit/v1_18_R1": "bukkit-mojang-1_18",
@@ -27,6 +29,7 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.19.3": "mcp-1_19_3",
     "forge/1.19.2": "mcp-1_19_1",
     "forge/1.19.1": "mcp-1_19_1",
     "forge/1.19": "mcp-1_19",
@@ -46,6 +49,7 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "sponge/1.19.3": "mcp-1_19_3",
     "sponge/1.19.2": "mcp-1_19_1",
     "sponge/1.19.1": "mcp-1_19_1",
     "sponge/1.19": "mcp-1_19",
@@ -65,6 +69,7 @@
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
 
+    "fabric/1.19.3": "yarn-1_19_3",
     "fabric/1.19.2": "yarn-1_19_1",
     "fabric/1.19.1": "yarn-1_19_1",
     "fabric/1.19": "yarn-1_19",
@@ -82,6 +87,10 @@
       "name": "Bukkit (Mojang)",
       "format": "Bukkit -> Mojang (%s)",
       "versions": {
+        "1_19_3": {
+          "name": "1.19.3",
+          "mojangClassNamesAtRuntime": true
+        },
         "1_19_1": {
           "name": "1.19.1",
           "mojangClassNamesAtRuntime": true
@@ -150,6 +159,9 @@
       "name": "MCP (Forge)",
       "format": "MCP (%s)",
       "versions": {
+        "1_19_3": {
+          "name": "1.19.3"
+        },
         "1_19_1": {
           "name": "1.19.1"
         },
@@ -198,6 +210,9 @@
       "name": "Yarn (Fabric)",
       "format": "Yarn (%s)",
       "versions": {
+        "1_19_3": {
+          "name": "1.19.3"
+        },
         "1_19_1": {
           "name": "1.19.1"
         },
