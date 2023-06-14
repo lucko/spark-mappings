@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.20.1": "bukkit-mojang-1_20",
     "bukkit/1.20": "bukkit-mojang-1_20",
     "bukkit/1.19.4": "bukkit-mojang-1_19_4",
     "bukkit/1.19.3": "bukkit-mojang-1_19_3",
@@ -33,6 +34,7 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.20.1": "mcp-1_20",
     "forge/1.20": "mcp-1_20",
     "forge/1.19.4": "mcp-1_19_4",
     "forge/1.19.3": "mcp-1_19_3",
@@ -55,6 +57,7 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "sponge/1.20.1": "mcp-1_20",
     "sponge/1.20": "mcp-1_20",
     "sponge/1.19.4": "mcp-1_19_4",
     "sponge/1.19.3": "mcp-1_19_3",
@@ -77,6 +80,7 @@
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
 
+    "fabric/1.20.1": "yarn-1_20",
     "fabric/1.20": "yarn-1_20",
     "fabric/1.19.4": "yarn-1_19_4",
     "fabric/1.19.3": "yarn-1_19_3",
