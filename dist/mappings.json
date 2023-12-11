@@ -1,5 +1,7 @@
 {
   "auto": {
+    "bukkit/1.20.4": "bukkit-mojang-1_20_4",
+    "bukkit/1.20.3": "bukkit-mojang-1_20_4",
     "bukkit/1.20.2": "bukkit-mojang-1_20_2",
     "bukkit/1.20.1": "bukkit-mojang-1_20",
     "bukkit/1.20": "bukkit-mojang-1_20",
@@ -19,6 +21,7 @@
     "bukkit/1.13.2": "bukkit-1_13_2",
     "bukkit/1.12.2": "bukkit-1_12_2",
 
+    "bukkit/v1_20_R3": "bukkit-mojang-1_20_4",
     "bukkit/v1_20_R2": "bukkit-mojang-1_20_2",
     "bukkit/v1_20_R1": "bukkit-mojang-1_20",
     "bukkit/v1_19_R3": "bukkit-mojang-1_19_4",
@@ -36,6 +39,8 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.20.4": "mcp-1_20_4",
+    "forge/1.20.3": "mcp-1_20_4",
     "forge/1.20.2": "mcp-1_20_2",
     "forge/1.20.1": "mcp-1_20",
     "forge/1.20": "mcp-1_20",
@@ -60,6 +65,8 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "sponge/1.20.4": "mcp-1_20_4",
+    "sponge/1.20.3": "mcp-1_20_4",
     "sponge/1.20.2": "mcp-1_20_2",
     "sponge/1.20.1": "mcp-1_20",
     "sponge/1.20": "mcp-1_20",
@@ -84,6 +91,8 @@
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
 
+    "fabric/1.20.4": "yarn-1_20_4",
+    "fabric/1.20.3": "yarn-1_20_4",
     "fabric/1.20.2": "yarn-1_20_2",
     "fabric/1.20.1": "yarn-1_20",
     "fabric/1.20": "yarn-1_20",
@@ -106,6 +115,10 @@
       "name": "Bukkit (Mojang)",
       "format": "Bukkit -> Mojang (%s)",
       "versions": {
+        "1_20_4": {
+          "name": "1.20.4",
+          "mojangClassNamesAtRuntime": true
+        },
         "1_20_2": {
           "name": "1.20.2",
           "mojangClassNamesAtRuntime": true
@@ -190,6 +203,9 @@
       "name": "MCP (Forge)",
       "format": "MCP (%s)",
       "versions": {
+        "1_20_4": {
+          "name": "1.20.4"
+        },
         "1_20_2": {
           "name": "1.20.2"
         },
@@ -250,6 +266,9 @@
       "name": "Yarn (Fabric)",
       "format": "Yarn (%s)",
       "versions": {
+        "1_20_4": {
+          "name": "1.20.4"
+        },
         "1_20_2": {
           "name": "1.20.2"
         },
