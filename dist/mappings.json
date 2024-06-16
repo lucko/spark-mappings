@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.21": "bukkit-mojang-1_21",
     "bukkit/1.20.6": "bukkit-mojang-1_20_6",
     "bukkit/1.20.5": "bukkit-mojang-1_20_6",
     "bukkit/1.20.4": "bukkit-mojang-1_20_4",
@@ -23,6 +24,7 @@
     "bukkit/1.13.2": "bukkit-1_13_2",
     "bukkit/1.12.2": "bukkit-1_12_2",
 
+    "bukkit/v1_21_R1": "bukkit-mojang-1_21",
     "bukkit/v1_20_R4": "bukkit-mojang-1_20_6",
     "bukkit/v1_20_R3": "bukkit-mojang-1_20_4",
     "bukkit/v1_20_R2": "bukkit-mojang-1_20_2",
@@ -42,6 +44,7 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.21": "mcp-1_21",
     "forge/1.20.6": "mcp-1_20_6",
     "forge/1.20.5": "mcp-1_20_6",
     "forge/1.20.4": "mcp-1_20_4",
@@ -70,6 +73,16 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "neoforge/1.21": "mcp-1_21",
+    "neoforge/1.20.6": "mcp-1_20_6",
+    "neoforge/1.20.5": "mcp-1_20_6",
+    "neoforge/1.20.4": "mcp-1_20_4",
+    "neoforge/1.20.3": "mcp-1_20_4",
+    "neoforge/1.20.2": "mcp-1_20_2",
+    "neoforge/1.20.1": "mcp-1_20",
+    "neoforge/1.20": "mcp-1_20",
+
+    "sponge/1.21": "mcp-1_21",
     "sponge/1.20.6": "mcp-1_20_6",
     "sponge/1.20.5": "mcp-1_20_6",
     "sponge/1.20.4": "mcp-1_20_4",
@@ -98,6 +111,7 @@
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
 
+    "fabric/1.21": "yarn-1_21",
     "fabric/1.20.6": "yarn-1_20_6",
     "fabric/1.20.5": "yarn-1_20_6",
     "fabric/1.20.4": "yarn-1_20_4",
