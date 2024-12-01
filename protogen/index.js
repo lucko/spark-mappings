@@ -20,14 +20,14 @@ for (const version of versions) {
 
         if (file === 'bukkit.json') {
             for (const cl of Object.values(json.classes)) {
-                for (const m of cl.methods) {
+                for (const m of cl.methods ?? []) {
                     m.mapped = m.bukkitName;
                 }
             }
 
             BukkitMappings.write(json, writer);
         } else if (file === 'mcp.json') {
-            for (const cl of Object.values(json.classes)) {
+            for (const cl of Object.values(json.classes ?? {})) {
                 for (const m of cl.methods) {
                     m.mapped = m.mcpName;
                     m.intermediate = m.seargeName;
