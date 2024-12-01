@@ -29,7 +29,9 @@ SOFTWARE.
 
 # Mappings Data
 
-Everything else in this repo is "raw" mapping data, and should be considered to be licensed under the same terms the original data was published with.
+Everything else in this repo is lightly transformed/processed mapping data, and should be considered to be licensed under the same terms as the the source data.
+
+The copyright statements and licenses for each mappings source are reproduced below.
 
 ## `bukkit` mappings
 
