@@ -153,7 +153,15 @@
     "fabric/1.16.5": "yarn-1_16_5",
     "fabric/1.16.4": "yarn-1_16_5",
     "fabric/1.15.2": "yarn-1_15_2",
-    "fabric/1.14.4": "yarn-1_14_4"
+    "fabric/1.14.4": "yarn-1_14_4",
+
+    "vanilla/1.21.4": "vanilla-1_21_4",
+    "vanilla/1.21.1": "vanilla-1_21_1",
+    "vanilla/1.20.6": "vanilla-1_20_6",
+    "vanilla/1.19.4": "vanilla-1_19_4",
+    "vanilla/1.18.2": "vanilla-1_18_2",
+    "vanilla/1.17.1": "vanilla-1_17_1",
+    "vanilla/1.16.5": "vanilla-1_16_5"
   },
   "types": {
     "bukkit-mojang": {
@@ -389,6 +397,33 @@
         },
         "1_14_4": {
           "name": "1.14.4"
+        }
+      }
+    },
+    "vanilla": {
+      "name": "Vanilla",
+      "format": "Vanilla (%s)",
+      "versions": {
+        "1_21_4": {
+          "name": "1.21.4"
+        },
+        "1_21_1": {
+          "name": "1.21.1"
+        },
+        "1_20_6": {
+          "name": "1.20.6"
+        },
+        "1_19_4": {
+          "name": "1.19.4"
+        },
+        "1_18_2": {
+          "name": "1.18.2"
+        },
+        "1_17_1": {
+          "name": "1.17.1"
+        },
+        "1_16_5": {
+          "name": "1.16.5"
         }
       }
     }
