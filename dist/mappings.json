@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.21.5": "bukkit-mojang-1_21_5",
     "bukkit/1.21.4": "bukkit-mojang-1_21_4",
     "bukkit/1.21.3": "bukkit-mojang-1_21_3",
     "bukkit/1.21.2": "bukkit-mojang-1_21_3",
@@ -50,6 +51,7 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.21.5": "mcp-1_21_5",
     "forge/1.21.4": "mcp-1_21_4",
     "forge/1.21.3": "mcp-1_21_3",
     "forge/1.21.2": "mcp-1_21_3",
@@ -83,6 +85,7 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "neoforge/1.21.5": "mcp-1_21_5",
     "neoforge/1.21.4": "mcp-1_21_4",
     "neoforge/1.21.3": "mcp-1_21_3",
     "neoforge/1.21.2": "mcp-1_21_3",
@@ -96,6 +99,7 @@
     "neoforge/1.20.1": "mcp-1_20",
     "neoforge/1.20": "mcp-1_20",
 
+    "sponge/1.21.5": "mcp-1_21_5",
     "sponge/1.21.4": "mcp-1_21_4",
     "sponge/1.21.3": "mcp-1_21_3",
     "sponge/1.21.2": "mcp-1_21_3",
@@ -129,6 +133,7 @@
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
 
+    "fabric/1.21.5": "yarn-1_21_5",
     "fabric/1.21.4": "yarn-1_21_4",
     "fabric/1.21.3": "yarn-1_21_3",
     "fabric/1.21.2": "yarn-1_21_3",
@@ -155,6 +160,7 @@
     "fabric/1.15.2": "yarn-1_15_2",
     "fabric/1.14.4": "yarn-1_14_4",
 
+    "vanilla/1.21.5": "vanilla-1_21_5",
     "vanilla/1.21.4": "vanilla-1_21_4",
     "vanilla/1.21.1": "vanilla-1_21_1",
     "vanilla/1.20.6": "vanilla-1_20_6",
@@ -168,6 +174,10 @@
       "name": "Bukkit (Mojang)",
       "format": "Bukkit -> Mojang (%s)",
       "versions": {
+        "1_21_5": {
+          "name": "1.21.5",
+          "mojangClassNamesAtRuntime": true
+        },
         "1_21_4": {
           "name": "1.21.4",
           "mojangClassNamesAtRuntime": true
@@ -272,6 +282,9 @@
       "name": "MCP (Forge)",
       "format": "MCP (%s)",
       "versions": {
+        "1_21_5": {
+          "name": "1.21.5"
+        },
         "1_21_4": {
           "name": "1.21.4"
         },
@@ -347,6 +360,9 @@
       "name": "Yarn (Fabric)",
       "format": "Yarn (%s)",
       "versions": {
+        "1_21_5": {
+          "name": "1.21.5"
+        },
         "1_21_4": {
           "name": "1.21.4"
         },
@@ -404,6 +420,9 @@
       "name": "Vanilla",
       "format": "Vanilla (%s)",
       "versions": {
+        "1_21_5": {
+          "name": "1.21.5"
+        },
         "1_21_4": {
           "name": "1.21.4"
         },
