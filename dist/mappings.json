@@ -1,5 +1,6 @@
 {
   "auto": {
+    "bukkit/1.21.9": "bukkit-mojang-1_21_9",
     "bukkit/1.21.8": "bukkit-mojang-1_21_7",
     "bukkit/1.21.7": "bukkit-mojang-1_21_7",
     "bukkit/1.21.6": "bukkit-mojang-1_21_6",
@@ -32,6 +33,7 @@
     "bukkit/1.13.2": "bukkit-1_13_2",
     "bukkit/1.12.2": "bukkit-1_12_2",
 
+    "bukkit/v1_21_R6": "bukkit-mojang-1_21_6",
     "bukkit/v1_21_R5": "bukkit-mojang-1_21_7",
     "bukkit/v1_21_R4": "bukkit-mojang-1_21_5",
     "bukkit/v1_21_R3": "bukkit-mojang-1_21_4",
@@ -56,6 +58,7 @@
     "bukkit/v1_10_R1": "bukkit-1_10_2",
     "bukkit/v1_8_R3": "bukkit-1_8_8",
 
+    "forge/1.21.9": "mcp-1_21_9",
     "forge/1.21.8": "mcp-1_21_7",
     "forge/1.21.7": "mcp-1_21_7",
     "forge/1.21.6": "mcp-1_21_6",
@@ -93,6 +96,7 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "neoforge/1.21.9": "mcp-1_21_9",
     "neoforge/1.21.8": "mcp-1_21_7",
     "neoforge/1.21.7": "mcp-1_21_7",
     "neoforge/1.21.6": "mcp-1_21_6",
@@ -110,6 +114,7 @@
     "neoforge/1.20.1": "mcp-1_20",
     "neoforge/1.20": "mcp-1_20",
 
+    "sponge/1.21.9": "mcp-1_21_9",
     "sponge/1.21.8": "mcp-1_21_7",
     "sponge/1.21.7": "mcp-1_21_7",
     "sponge/1.21.6": "mcp-1_21_6",
@@ -147,6 +152,7 @@
     "sponge/1.8.8": "mcp-1_8_8",
     "sponge/1.7.10": "mcp-1_7_10",
 
+    "fabric/1.21.9": "yarn-1_21_9",
     "fabric/1.21.8": "yarn-1_21_7",
     "fabric/1.21.7": "yarn-1_21_7",
     "fabric/1.21.6": "yarn-1_21_6",
@@ -177,6 +183,7 @@
     "fabric/1.15.2": "yarn-1_15_2",
     "fabric/1.14.4": "yarn-1_14_4",
 
+    "vanilla/1.21.9": "vanilla-1_21_9",
     "vanilla/1.21.8": "vanilla-1_21_7",
     "vanilla/1.21.7": "vanilla-1_21_7",
     "vanilla/1.21.6": "vanilla-1_21_6",
@@ -194,6 +201,10 @@
       "name": "Bukkit (Mojang)",
       "format": "Bukkit -> Mojang (%s)",
       "versions": {
+        "1_21_9": {
+          "name": "1.21.9",
+          "mojangClassNamesAtRuntime": true
+        },
         "1_21_7": {
           "name": "1.21.7",
           "mojangClassNamesAtRuntime": true
@@ -310,6 +321,9 @@
       "name": "MCP (Forge)",
       "format": "MCP (%s)",
       "versions": {
+        "1_21_9": {
+          "name": "1.21.9"
+        },
         "1_21_7": {
           "name": "1.21.7"
         },
@@ -394,6 +408,9 @@
       "name": "Yarn (Fabric)",
       "format": "Yarn (%s)",
       "versions": {
+        "1_21_9": {
+          "name": "1.21.9"
+        },
         "1_21_7": {
           "name": "1.21.7"
         },
@@ -460,6 +477,9 @@
       "name": "Vanilla",
       "format": "Vanilla (%s)",
       "versions": {
+        "1_21_9": {
+          "name": "1.21.9"
+        },
         "1_21_7": {
           "name": "1.21.7"
         },
