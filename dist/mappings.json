@@ -101,6 +101,8 @@
     "forge/1.8.8": "mcp-1_8_8",
     "forge/1.7.10": "mcp-1_7_10",
 
+    "cleanroom/1.12.2": "mcp-1_12_2",
+
     "neoforge/1.21.11": "mcp-1_21_11",
     "neoforge/1.21.10": "mcp-1_21_9",
     "neoforge/1.21.9": "mcp-1_21_9",
